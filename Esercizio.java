@@ -14,10 +14,10 @@ public class triangoloEquilatero extends Application {
 	Label lmaialino=new Label("Menichetti miaialino polacco")
 	TextField tLato=new TextField();
 	 TextField tAltezza= new TextField();
-	 Label lRisultato=new Label();
+	 Label lRisultato=new Label("anwar magreb");
 	 Label lNome=new Label("Anwar Belkheir, Alejandro Ordonez  Romero, Gabriele Menichetti, Daniele Morelli");
 	 Label lData=new Label("2023");
-	public void start (Stage finestra) {
+	public void start (Stage finestra) {"poldi zozzo"
 		Button bArea=new Button("Calcolo area");
 		Button bPerimetro=new Button("Calcolo perimetro");
 		GridPane griglia=new GridPane();
